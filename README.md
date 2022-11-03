@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-02 11:49:28
+ * @LastEditTime: 2022-11-03 16:22:57
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -22,34 +22,23 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 ### CV 
 
-- Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
+[x] Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
 
-- InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)
+[x] InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)
 
-- MobileNet: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+[x] InceptionV4: [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
-- SqueezeNet [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360v4)
+[ ] MobileNet: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
-- NasNet: [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012v4)
+[ ] EfficientNet: [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
-- Residual Attention Network: [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)
+[x] Residual Attention Network: [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)
 
-- SENet: [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
-
-- WideResNet: [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
-
-- Yolo:
+[ ] Non-deep Networks: [Non-deep Networks](https://arxiv.org/abs/2110.07641)
 
 ### NLP
+## Project
 
-1. Word2vec:
-2. GloVe:
-3. Fasttext:
-5. LSTM/GRU:
-6. ELMo:
-7. Transformer:
-8. Bert:
-
-## Project 
+### Object Detection
 
 ### Audio-visual
