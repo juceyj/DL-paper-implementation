@@ -2,7 +2,7 @@
 Author: Jiayi Liu
 Date: 2022-11-02 11:41:52
 LastEditors: Jiayi Liu
-LastEditTime: 2022-11-03 01:40:05
+LastEditTime: 2022-11-03 11:10:15
 Description: 
 Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
 '''
@@ -341,7 +341,7 @@ class Attention(nn.Module):
             nn.ReLU(inplace=True)
         )
 
-        # how to keep the same size of feature map (56,56) after max-pool?
+        # how to keep the same size (56,56) after max-pool?
         self.max_pool = nn.MaxPool2d(kernel_size=3, stride=2, padding=1)
 
         self.stage1 = self._make_stage(64, 256, block_num[0], AttentionModule1)
