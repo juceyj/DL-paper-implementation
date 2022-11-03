@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-03 16:22:57
+ * @LastEditTime: 2022-11-03 16:26:33
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -20,25 +20,25 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 ## Basic
 
-### CV 
+### 1. CV 
 
-[x] Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
+-[x] Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
 
-[x] InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)
+-[x] InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)
 
-[x] InceptionV4: [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+-[x] InceptionV4: [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
 
-[ ] MobileNet: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+-[ ] MobileNet: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
-[ ] EfficientNet: [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+-[ ] EfficientNet: [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
-[x] Residual Attention Network: [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)
+-[x] Residual Attention Network: [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)
 
-[ ] Non-deep Networks: [Non-deep Networks](https://arxiv.org/abs/2110.07641)
+-[ ] Non-deep Networks: [Non-deep Networks](https://arxiv.org/abs/2110.07641)
 
-### NLP
+### 2. NLP
 ## Project
 
-### Object Detection
+### 1. Object Detection
 
-### Audio-visual
+### 2. Audio-visual
