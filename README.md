@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-03 16:26:33
+ * @LastEditTime: 2022-11-08 16:56:47
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -11,12 +11,12 @@ Paper得来终觉浅，绝知此事要coding。
 
 Knowledge obtained on the papers always feels shallow, and it must be known that this thing requires coding.
 
-## 论文复现目的 Purpose
+## Purpose
 
-1. 最小实践 Minimal Practice
-2. 项目注释 Project Notes
-3. 尝试优化 Optimization
-4. 算法竞赛 Algorithm Competition
+1. Minimal Practice
+2. Project Notes
+3. Optimization
+4. Algorithm Competition
 
 ## Basic
 
@@ -36,9 +36,32 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 - [ ] Non-deep Networks: [Non-deep Networks](https://arxiv.org/abs/2110.07641)
 
-### 2. NLP
-## Project
+- [ ] GAN: Generative Adversarial Network
 
+- [ ] YoloV3
+
+### 2. NLP
+
+- [ ] Word2vev
+
+- [ ] GloVe
+
+- [ ] Fasttext
+
+- [ ] GRU
+
+- [ ] BiLSTM
+
+- [ ] Transformer
+
+- [ ] Bert
+
+- [ ] GPT-3
+## Project
 ### 1. Object Detection
 
 ### 2. Audio-visual
+
+- [ ] Syncnet:[Out of time: automated lip sync in the wild](https://link.springer.com/chapter/10.1007/978-3-319-54427-4_19)
+
+- [ ] Wav2lip: [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)
