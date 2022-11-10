@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-09 17:54:38
+ * @LastEditTime: 2022-11-10 20:18:28
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -21,6 +21,11 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 ## Basic
 
 ### 1. CNN
+
+|  Model   | Paper  | Code  |
+|  ----  | ----  | ----  |
+| Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | - [x] | - [x] |
+| InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | - [x] | - [x] |
 
 - [x] Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
 
