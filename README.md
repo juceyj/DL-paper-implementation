@@ -24,8 +24,8 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 |  Model   | Paper  | Code  |
 |  ----  | ----  | ----  |
-| Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | & #9745; | & #9745; |
-| InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | & #9744; | - [x] |
+| Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | &#9745; | &#9745; |
+| InceptionV3: [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | &#9744; | - [x] |
 
 - [x] Resnet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)
 
