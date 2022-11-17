@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-17 14:14:11
+ * @LastEditTime: 2022-11-17 14:34:06
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -24,54 +24,54 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| Resnet  | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | &#10004; | &#10004; |
-| InceptionV3  | [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | &#10004; | &#10004; |
-| InceptionV4  | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)  | &#10004; | &#10006; |
-| MobileNet  | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)  | &#10006; | &#10006; |
-| EfficientNet  | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  | &#10006; | &#10006; |
-| Residual Attention Network  | [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)  | &#10006; | &#10006; |
-| Non-deep Networks  | [Non-deep Networks](https://arxiv.org/abs/2110.07641)  | &#10006; | &#10006; |
+| Resnet  | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | :white_large_square: | :white_large_square: |
+| InceptionV3  | [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | :white_large_square: | :white_large_square: |
+| InceptionV4  | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)  | :white_large_square: | :white_check_mark: |
+| MobileNet  | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)  | :white_check_mark: | :white_check_mark: |
+| EfficientNet  | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  | :white_check_mark: | :white_check_mark: |
+| Residual Attention Network  | [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)  | :white_large_square: | :white_large_square: |
+| Non-deep Networks  | [Non-deep Networks](https://arxiv.org/abs/2110.07641)  | :white_check_mark: | :white_check_mark: |
 ### 2. Transformer
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| Transformer  | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  | &#10004; | &#10004; |
-| BERT  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  | &#10004; | &#10006; |
-| GPT-3  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  | &#10006; | &#10006; |
+| Transformer  | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  | :white_large_square: | :white_large_square: |
+| BERT  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  | :white_large_square: | :white_check_mark: |
+| GPT-3  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  | :white_check_mark: | :white_check_mark: |
 
 ### 3. Generation
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| GAN  | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)  | &#10006; | &#10006; |
-| pix2pix  | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)  | &#10006; | &#10006; |
-| CycleGAN  | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)  | &#10006; | &#10006; |
-| Guided Diffusion  | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  | &#10006; | &#10006; |
-| DALL.E 2  | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)  | &#10006; | &#10006; |
+| GAN  | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)  | :white_check_mark: | :white_check_mark: |
+| pix2pix  | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)  | :white_check_mark: | :white_check_mark: |
+| CycleGAN  | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)  | :white_check_mark: | :white_check_mark: |
+| Guided Diffusion  | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  | :white_check_mark: | :white_check_mark: |
+| DALL.E 2  | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)  | :white_check_mark: | :white_check_mark: |
 
 ### 4. Multimodal
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| CLIP  | [-](https://arxiv.org/abs/1406.2661)  | &#10006; | &#10006; |
-| ViLT  | [-](https://arxiv.org/abs/1611.07004)  | &#10006; | &#10006; |
-| CLIP4clip  | [-](https://arxiv.org/abs/1703.10593)  | &#10006; | &#10006; |
-| GroupViT  | [-](https://arxiv.org/abs/2105.05233)  | &#10006; | &#10006; |
-| CILPasso  | [-](https://arxiv.org/abs/2204.06125)  | &#10006; | &#10006; |
+| CLIP  | [-](https://arxiv.org/abs/1406.2661)  | :white_check_mark: | :white_check_mark: |
+| ViLT  | [-](https://arxiv.org/abs/1611.07004)  | :white_check_mark: | :white_check_mark: |
+| CLIP4clip  | [-](https://arxiv.org/abs/1703.10593)  | :white_check_mark: | :white_check_mark: |
+| GroupViT  | [-](https://arxiv.org/abs/2105.05233)  | :white_check_mark: | :white_check_mark: |
+| CILPasso  | [-](https://arxiv.org/abs/2204.06125)  | :white_check_mark: | :white_check_mark: |
 
 ## Project
 ### 1. Object Detection
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| R-CNN  | [-](https://arxiv.org/abs/1406.2661)  | &#10006; | &#10006; |
-| Faster R-CNN  | [-](https://arxiv.org/abs/1611.07004)  | &#10006; | &#10006; |
-| YoloV3  | [You Only Look Once: Unified, Real-time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)  | &#10004; | &#10006; |
-| DETR  | [-](https://arxiv.org/abs/2105.05233)  | &#10006; | &#10006; |
+| R-CNN  | [-](https://arxiv.org/abs/1406.2661)  | :white_check_mark: | :white_check_mark: |
+| Faster R-CNN  | [-](https://arxiv.org/abs/1611.07004)  | :white_check_mark: | :white_check_mark: |
+| YoloV3  | [You Only Look Once: Unified, Real-time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)  | :white_large_square: | :white_check_mark: |
+| DETR  | [-](https://arxiv.org/abs/2105.05233)  | :white_check_mark: | :white_check_mark: |
 
 ### 3. Audio-visual
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| Syncnet  | [Out of time: automated lip sync in the wild](https://link.springer.com/chapter/10.1007/978-3-319-54427-4_19)  | &#10004; | &#10006; |
-| Wav2lip  | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)  | &#10004; | &#10006; |
+| Syncnet  | [Out of time: automated lip sync in the wild](https://link.springer.com/chapter/10.1007/978-3-319-54427-4_19)  | :white_large_square: | :white_check_mark: |
+| Wav2lip  | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)  | :white_large_square: | :white_check_mark: |
