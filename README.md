@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-10 20:31:45
+ * @LastEditTime: 2022-11-17 13:57:58
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -22,15 +22,15 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 ### 1. CNN
 
-|  Model   |  Link   | Paper  | Code  |
-|  ----  |  ----  | ----  | ----  |
+| Model   | Link   | Paper  | Code  |
+| ----  | ----  | ----  | ----  |
 | Resnet  | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385v1)  | &#9745; | &#9745; |
 | InceptionV3  | [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567v3)  | &#9745; | &#9745; |
 | InceptionV4  | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)  | &#9745; | &#9745; |
-| MobileNet  | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)  | &#9744; | &#9744; |
-| EfficientNet  | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  | &#9744; | &#9744; |
+| MobileNet  | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)  | &#10005; | &#10004; |
+| EfficientNet  | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  | &#10007; | &#10006; |
 | Residual Attention Network  | [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)  | &#9745; | &#9745; |
-| Non-deep Networks  | [Non-deep Networks](https://arxiv.org/abs/2110.07641)  | &#9744; | &#9744; |
+| Non-deep Networks  | [Non-deep Networks](https://arxiv.org/abs/2110.07641)  | &#10008; | &#9744; |
 ### 2. Transformer
 
 - [x] Transformer: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
