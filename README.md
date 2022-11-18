@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-17 14:53:17
+ * @LastEditTime: 2022-11-18 12:25:12
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -31,7 +31,15 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | EfficientNet  | [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  | :white_large_square: | :white_large_square: |
 | Residual Attention Network  | [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)  | :white_check_mark: | :white_check_mark: |
 | Non-deep Networks  | [Non-deep Networks](https://arxiv.org/abs/2110.07641)  | :white_large_square: | :white_large_square: |
-### 2. Transformer
+
+### 2. RNN
+| Model   | Link   | Paper  | Code  |
+| ----  | ----  | ----  | ----  |
+| LSTM  | [Long Short-term Memory](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory)  | :white_check_mark: | :white_check_mark: |
+| BiLSTM  | [Bidirectional recurrent neural networks](https://www.researchgate.net/publication/3316656_Bidirectional_recurrent_neural_networks)  | :white_check_mark: | :white_large_square: |
+| GRU  | [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)  | :white_check_mark: | :white_large_square: |
+
+### 3. Transformer
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
@@ -39,7 +47,7 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | BERT  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  | :white_check_mark: | :white_large_square: |
 | GPT-3  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  | :white_large_square: | :white_large_square: |
 
-### 3. Generation
+### 4. Generation
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
@@ -49,7 +57,7 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | Guided Diffusion  | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  | :white_large_square: | :white_large_square: |
 | DALL.E 2  | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)  | :white_large_square: | :white_large_square: |
 
-### 4. Multimodal
+### 5. Multimodal
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
