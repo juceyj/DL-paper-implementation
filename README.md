@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-18 12:25:12
+ * @LastEditTime: 2022-11-29 01:46:40
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -45,7 +45,9 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | ----  | ----  | ----  | ----  |
 | Transformer  | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  | :white_check_mark: | :white_check_mark: |
 | BERT  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  | :white_check_mark: | :white_large_square: |
-| GPT-3  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  | :white_large_square: | :white_large_square: |
+| GPT-3  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  | :white_check_mark: | :white_large_square: |
+| ViT  | [An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/abs/2010.11929)  | :white_check_mark: | :white_large_square: |
+
 
 ### 4. Generation
 
@@ -53,15 +55,17 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | ----  | ----  | ----  | ----  |
 | GAN  | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)  | :white_check_mark: | :white_large_square: |
 | pix2pix  | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)  | :white_large_square: | :white_large_square: |
-| CycleGAN  | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)  | :white_large_square: | :white_large_square: |
-| Guided Diffusion  | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  | :white_large_square: | :white_large_square: |
+| CycleGAN  | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)  | :white_check_mark: | :white_large_square: |
+| VAE  | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  | :white_check_mark: | :white_check_mark: |
+| DDPM  | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  | :white_check_mark: | :white_large_square: |
+| Guided Diffusion  | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  | :white_check_mark: | :white_large_square: |
 | DALL.E 2  | [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)  | :white_large_square: | :white_large_square: |
 
 ### 5. Multimodal
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| CLIP  | [-](https://arxiv.org/abs/1406.2661)  | :white_large_square: | :white_large_square: |
+| CLIP  | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)  | :white_check_mark: | :white_large_square: |
 | ViLT  | [-](https://arxiv.org/abs/1611.07004)  | :white_large_square: | :white_large_square: |
 | CLIP4clip  | [-](https://arxiv.org/abs/1703.10593)  | :white_large_square: | :white_large_square: |
 | GroupViT  | [-](https://arxiv.org/abs/2105.05233)  | :white_large_square: | :white_large_square: |

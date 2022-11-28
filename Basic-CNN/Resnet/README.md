@@ -10,5 +10,3 @@
 
 ![resnet](https://github.com/juceyj/DL-paper-implementation/blob/a011db66f5bf3d168d9a3f8de9057a877bcadf65/Other/img/Resnet.png)
 
-## Inception 
-
