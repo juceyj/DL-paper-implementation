@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2023-05-25 03:33:09
+ * @LastEditTime: 2023-05-25 03:39:09
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -65,10 +65,10 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| CLIP  | [Learning Transferable Visual Models From Natural Language Supervision(Connecting Text and Images)](https://arxiv.org/abs/2103.00020)  | :white_check_mark: | :white_large_square: |
+| CLIP  | [Learning Transferable Visual Models From Natural Language Supervision(Connecting Text and Images)](https://arxiv.org/abs/2103.00020)  | :white_check_mark: | :white_check_mark: |
 | ViLT  | [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334)  | :white_check_mark: | :white_large_square: |
 | SimVLM  | [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)  | :white_check_mark: | :white_large_square: |
-| ALBEF  | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/hash/505259756244493872b7709a8a01b536-Abstract.html)  | :white_check_mark: | :white_large_square: |
+| ALBEF  | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/hash/505259756244493872b7709a8a01b536-Abstract.html)  | :white_check_mark: | :white_check_mark: |
 | VLMo  | [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d46662aa53e78a62afd980a29e0c37ed-Abstract-Conference.html)  | :white_check_mark: | :white_large_square: |
 | BLIP  | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n.html)  | :white_check_mark: | :white_large_square: |
 | CYCLIP  | [CyCLIP: Cyclic Contrastive Language-Image Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2cd36d327f33d47b372d4711edd08de0-Abstract-Conference.html)  | :white_check_mark: | :white_large_square: |
@@ -91,4 +91,4 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
 | Syncnet  | [Out of time: automated lip sync in the wild](https://link.springer.com/chapter/10.1007/978-3-319-54427-4_19)  | :white_check_mark: | :white_large_square: |
-| Wav2lip  | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)  | :white_check_mark: | :white_large_square: |
+| Wav2lip  | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010)  | :white_check_mark: | :white_check_mark: |
