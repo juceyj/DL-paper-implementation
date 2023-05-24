@@ -2,7 +2,7 @@
 Author: Jiayi Liu
 Date: 2022-11-09 11:30:14
 LastEditors: Jiayi Liu
-LastEditTime: 2022-11-09 18:16:00
+LastEditTime: 2022-12-08 03:45:45
 Description: 
 Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
 '''
@@ -21,7 +21,7 @@ def attention(query, key, value, mask=None, dropout=None, e=1e12):
     score = torch.matmul(query, key_t) / math.sqrt(d_k)
 
     if mask is not None:
-        score = score.masked_fill(mask==0,-e) # replace 0 with -e
+        score = score.masked_fill(mask==0,-1e9) # replace 0 with -e
     attn = F.softmax(score, dim=-1)
     if dropout is not None:
         attn = dropout(attn)

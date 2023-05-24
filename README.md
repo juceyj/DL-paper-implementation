@@ -2,7 +2,7 @@
  * @Author: Jiayi Liu
  * @Date: 2022-10-02 08:25:41
  * @LastEditors: Jiayi Liu
- * @LastEditTime: 2022-11-29 01:46:40
+ * @LastEditTime: 2023-05-25 03:33:09
  * @FilePath: /private_jacieliu/DL-paper-implementation/README.md
  * @Description: 
  * Copyright (c) 2022 by JiayiLiu, All Rights Reserved. 
@@ -65,21 +65,26 @@ Knowledge obtained on the papers always feels shallow, and it must be known that
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| CLIP  | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)  | :white_check_mark: | :white_large_square: |
-| ViLT  | [-](https://arxiv.org/abs/1611.07004)  | :white_large_square: | :white_large_square: |
-| CLIP4clip  | [-](https://arxiv.org/abs/1703.10593)  | :white_large_square: | :white_large_square: |
-| GroupViT  | [-](https://arxiv.org/abs/2105.05233)  | :white_large_square: | :white_large_square: |
-| CILPasso  | [-](https://arxiv.org/abs/2204.06125)  | :white_large_square: | :white_large_square: |
+| CLIP  | [Learning Transferable Visual Models From Natural Language Supervision(Connecting Text and Images)](https://arxiv.org/abs/2103.00020)  | :white_check_mark: | :white_large_square: |
+| ViLT  | [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334)  | :white_check_mark: | :white_large_square: |
+| SimVLM  | [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904)  | :white_check_mark: | :white_large_square: |
+| ALBEF  | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/hash/505259756244493872b7709a8a01b536-Abstract.html)  | :white_check_mark: | :white_large_square: |
+| VLMo  | [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d46662aa53e78a62afd980a29e0c37ed-Abstract-Conference.html)  | :white_check_mark: | :white_large_square: |
+| BLIP  | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n.html)  | :white_check_mark: | :white_large_square: |
+| CYCLIP  | [CyCLIP: Cyclic Contrastive Language-Image Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2cd36d327f33d47b372d4711edd08de0-Abstract-Conference.html)  | :white_check_mark: | :white_large_square: |
+| +MAE  | [Training Vision-Language Transformers from Captions Alone](https://arxiv.org/abs/2205.09256)  | :white_check_mark: | :white_large_square: |
+| VLMixer  | [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h.html)  | :white_check_mark: | :white_large_square: |
+
 
 ## Project
 ### 1. Object Detection
 
 | Model   | Link   | Paper  | Code  |
 | ----  | ----  | ----  | ----  |
-| R-CNN  | [-](https://arxiv.org/abs/1406.2661)  | :white_large_square: | :white_large_square: |
-| Faster R-CNN  | [-](https://arxiv.org/abs/1611.07004)  | :white_large_square: | :white_large_square: |
+| R-CNN  | [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)  | :white_check_mark: | :white_large_square: |
+| Faster R-CNN  | [Faster R-CNN](https://arxiv.org/abs/1504.08083)  | :white_check_mark: | :white_large_square: |
 | YoloV3  | [You Only Look Once: Unified, Real-time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)  | :white_check_mark: | :white_large_square: |
-| DETR  | [-](https://arxiv.org/abs/2105.05233)  | :white_large_square: | :white_large_square: |
+| DETR  | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)  | :white_large_square: | :white_large_square: |
 
 ### 3. Audio-visual
 
